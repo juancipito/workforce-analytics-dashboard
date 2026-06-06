@@ -1,7 +1,6 @@
 # LinkedIn Featured — Workforce Analytics Dashboard
 
 > Copy-paste texts for GitHub publication and LinkedIn promotion.
-> Customize [YOUR_GITHUB_USERNAME] before using.
 
 ---
 
@@ -53,7 +52,7 @@ The insights aren't made up:
 
 These are the findings I would have flagged on a Monday morning WFM call.
 
-GitHub repo: https://github.com/[YOUR_GITHUB_USERNAME]/workforce-analytics-dashboard
+GitHub repo: https://github.com/juancipito/workforce-analytics-dashboard
 
 If you're hiring for WFM Analyst, RTA Lead, or BI-heavy Operations roles — happy to connect.
 
@@ -70,7 +69,7 @@ Workforce Analytics Dashboard — Python + Power BI
 End-to-end BPO workforce pipeline: 7,200 records, 6 KPI charts, Power BI exports. Built on real RTA operations experience.
 
 **Link to use:**
-https://github.com/[YOUR_GITHUB_USERNAME]/workforce-analytics-dashboard
+https://github.com/juancipito/workforce-analytics-dashboard
 
 ---
 
@@ -85,4 +84,4 @@ https://github.com/[YOUR_GITHUB_USERNAME]/workforce-analytics-dashboard
 
 ---
 
-*Replace [YOUR_GITHUB_USERNAME] with your actual GitHub username before publishing.*
+*Replace juancipito with your actual GitHub username before publishing.*

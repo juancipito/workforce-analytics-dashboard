@@ -6,7 +6,7 @@
 ![Simulated Data](https://img.shields.io/badge/Data-Simulated-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-blue)
 
-> **Author:** Juan Carlos Mejía Soto · [LinkedIn](https://www.linkedin.com/in/jcms-aiengineer/)  
+> **Author:** Juan Carlos Mejía Soto · [LinkedIn](https://www.linkedin.com/in/jcms-aiengineer/) · [GitHub](https://github.com/juancipito/workforce-analytics-dashboard)  
 > **Stack:** Python · Matplotlib · Power BI · Excel · SQL-ready CSVs
 
 ---
