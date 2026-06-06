@@ -1,0 +1,4 @@
+campaign,total_agents,total_records,avg_adherence_pct,avg_occupancy_pct,avg_aht_sec,avg_qa_score,avg_csat_score,avg_sla_pct,total_absences,total_shrinkage_min,total_scheduled_min,sla_met_count,shrinkage_pct,sla_met_rate
+Billing & Collections,30,2700,84.49,78.09,355.92,84.41,73.03,80.37,124,203018,1296000,1181,15.66,43.74
+Customer Retention,20,1800,85.09,78.09,526.02,87.16,83.92,71.07,83,131574,864000,826,15.23,45.89
+Tech Support,30,2700,83.93,78.2,411.06,82.0,78.22,75.31,126,206163,1296000,1158,15.91,42.89

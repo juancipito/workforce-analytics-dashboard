@@ -1,0 +1,20 @@
+agent_id,campaign,avg_adherence,days_below_threshold,pct_days_below,total_absences
+AGT-035,Billing & Collections,80.18,84,94.4,1
+AGT-075,Customer Retention,80.23,87,100.0,3
+AGT-013,Tech Support,80.24,90,100.0,0
+AGT-026,Tech Support,80.69,79,92.9,5
+AGT-063,Customer Retention,80.87,76,96.2,11
+AGT-041,Billing & Collections,80.96,80,93.0,4
+AGT-065,Customer Retention,81.25,82,97.6,6
+AGT-049,Billing & Collections,81.81,80,88.9,0
+AGT-023,Tech Support,81.99,79,89.8,2
+AGT-032,Billing & Collections,82.16,74,83.1,1
+AGT-008,Tech Support,82.33,75,88.2,5
+AGT-044,Billing & Collections,82.34,73,84.9,4
+AGT-015,Tech Support,82.76,69,79.3,3
+AGT-005,Tech Support,82.78,72,80.0,0
+AGT-030,Tech Support,82.91,74,85.1,3
+AGT-064,Customer Retention,82.93,64,77.1,7
+AGT-066,Customer Retention,83.36,66,78.6,6
+AGT-006,Tech Support,83.61,59,68.6,4
+AGT-011,Tech Support,84.28,54,61.4,2

@@ -1,0 +1,11 @@
+agent_id,campaign,productivity_score,avg_contacts,avg_adherence,avg_qa,avg_csat,days_worked
+AGT-060,Billing & Collections,79.12,73.72,96.96,79.92,65.46,83
+AGT-038,Billing & Collections,77.99,65.99,91.18,89.64,70.86,88
+AGT-052,Billing & Collections,77.89,61.02,95.14,86.65,77.08,89
+AGT-058,Billing & Collections,77.44,61.07,88.46,92.08,77.69,83
+AGT-062,Customer Retention,77.31,48.64,95.89,91.97,89.58,87
+AGT-056,Billing & Collections,77.29,57.86,98.3,92.61,69.72,86
+AGT-051,Billing & Collections,77.27,65.1,91.57,84.86,73.11,86
+AGT-043,Billing & Collections,77.25,54.4,96.09,92.41,78.52,87
+AGT-053,Billing & Collections,76.91,60.45,92.11,88.57,75.07,88
+AGT-007,Tech Support,76.8,54.57,93.4,88.63,83.13,84

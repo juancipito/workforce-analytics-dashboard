@@ -1,0 +1,43 @@
+campaign,week_label,avg_service_level,sla_met_pct,total_contacts
+Billing & Collections,W10,85.12,41.38,1657
+Billing & Collections,W11,84.38,47.55,11496
+Billing & Collections,W12,84.2,44.55,11404
+Billing & Collections,W13,84.58,48.73,11118
+Billing & Collections,W14,83.98,43.37,11028
+Billing & Collections,W15,84.18,47.03,11476
+Billing & Collections,W16,84.43,42.71,11118
+Billing & Collections,W17,83.95,44.06,11573
+Billing & Collections,W18,84.17,45.54,11516
+Billing & Collections,W19,85.15,52.02,11238
+Billing & Collections,W20,84.27,50.25,11254
+Billing & Collections,W21,83.84,41.0,11417
+Billing & Collections,W22,84.35,46.73,11319
+Billing & Collections,W23,83.3,42.18,8239
+Customer Retention,W10,74.48,52.63,744
+Customer Retention,W11,74.26,46.62,5298
+Customer Retention,W12,74.89,50.36,5269
+Customer Retention,W13,74.27,46.15,5040
+Customer Retention,W14,74.77,49.63,5241
+Customer Retention,W15,74.63,53.68,5300
+Customer Retention,W16,75.34,56.15,5102
+Customer Retention,W17,74.81,48.53,5270
+Customer Retention,W18,74.69,47.76,5164
+Customer Retention,W19,74.24,43.94,5062
+Customer Retention,W20,73.6,39.85,5128
+Customer Retention,W21,74.31,52.31,5062
+Customer Retention,W22,74.04,40.15,5361
+Customer Retention,W23,74.73,50.53,3725
+Tech Support,W10,79.77,53.85,1242
+Tech Support,W11,78.66,42.79,9878
+Tech Support,W12,78.97,43.01,9337
+Tech Support,W13,79.28,46.73,9647
+Tech Support,W14,78.91,44.28,9701
+Tech Support,W15,78.86,44.12,9933
+Tech Support,W16,79.12,45.73,9696
+Tech Support,W17,79.35,45.89,10140
+Tech Support,W18,79.85,50.0,9683
+Tech Support,W19,78.26,39.39,9773
+Tech Support,W20,79.12,44.28,9904
+Tech Support,W21,78.81,47.72,9594
+Tech Support,W22,78.74,45.0,9908
+Tech Support,W23,78.96,44.59,7186
